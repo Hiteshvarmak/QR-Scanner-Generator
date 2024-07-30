@@ -1,6 +1,3 @@
-# QR-Scanner-Generator
-Got it. Here is the updated description:
-
 # QR Scanner and Generator
 
 ## Description
